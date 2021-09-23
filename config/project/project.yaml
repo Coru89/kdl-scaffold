@@ -1,0 +1,22 @@
+dateModified: 1632410362
+email:
+  fromEmail: corey.james.keller@gmail.com
+  fromName: 'KDL Scaffolding'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    5993a5b5-a100-4ddd-b280-2c72e2581056: Common # Common
+    b93e8e86-c4c3-461b-af34-af8e782575ee: 'KDL Scaffolding' # KDL Scaffolding
+    eec6e1dc-a4cc-4aaa-a666-5a6fbb86482c: 'KDL Scaffolding' # KDL Scaffolding
+system:
+  edition: solo
+  live: true
+  name: 'KDL Scaffolding'
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
